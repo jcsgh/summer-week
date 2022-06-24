@@ -1,7 +1,9 @@
 function App() {
   return (
     <div>
-      <h1>Hello</h1>
+      <h1>Gateway Kids Summer Week 2022</h1>
+
+      
     </div>
   );
 }
